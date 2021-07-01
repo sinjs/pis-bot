@@ -24,27 +24,27 @@
     "url": "git://github.com/pterodactyl-installer/pis-bot.git"
   },
   "dependencies": {
-    "@types/node": "^15.3.1",
-    "@types/node-fetch": "^2.5.8",
+    "@types/node": "^15.12.5",
+    "@types/node-fetch": "^2.5.10",
     "@types/readline-sync": "^1.4.3",
-    "@types/ws": "^7.4.4",
-    "chalk": "^4.1.0",
-    "discord.js": "^12.5.1",
-    "dotenv": "^9.0.2",
+    "@types/ws": "^7.4.5",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10",
     "rimraf": "^3.0.2",
     "tesseract.js": "^2.1.4",
-    "typescript": "^4.1.5"
+    "typescript": "^4.3.5"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.24.0",
-    "@typescript-eslint/parser": "^4.24.0",
-    "eslint": "^7.21.0",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-prettier": "^3.3.1",
-    "prettier": "^2.2.1",
-    "tsc-watch": "^4.2.9"
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.28.1",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2",
+    "tsc-watch": "^4.4.0"
   }
 }
